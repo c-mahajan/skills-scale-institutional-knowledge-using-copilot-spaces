@@ -73,6 +73,39 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
 
+## QA Lead
+### Role Summary
+Responsible for end-to-end test strategy, coordinates QA efforts, ensures delivered features meet acceptance criteria.
+
+### Responsibilities
+Draft test plans, manage test execution, organize bug triage, report quality metrics.
+
+### Goals
+Maintain release quality, minimize regressions, accelerate bug resolution.
+
+### Typical Communication
+Weekly QA sync, daily standups, test reports.
+
+### Collaborates with
+PM, PdM, Developers, Release Manager.
+
+## Technical Writer
+## Role summary
+Documents features, maintains process artifacts, ensures clarity in technical docs.
+
+### Goals 
+Write the user manuals for each newly added features
+
+### Typical Communication
+Weekly QA sync, daily standups, test reports.
+
+### Collaborates with
+PM, PdM, Developers, Release Manager.
+
+## UX Designer
+Designs user flows, collects user feedback, collaborates with Product Manager and Developers for usability.
+
+
 ---
 
 ## How these personas are used in the exercise
